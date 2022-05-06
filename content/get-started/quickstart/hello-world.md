@@ -1,32 +1,15 @@
 ---
 title: Hello World
-intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
-versions:
+intro: 'versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
+  ghae: '*'				
   ghec: '*'
 type: quick_start
 topics:
   - Pull requests
   - Fundamentals
-miniTocMaxHeadingLevel: 3
----
-
-## Introduction
-
-{% data variables.product.product_name %} is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-This tutorial teaches you {% data variables.product.product_name %} essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn {% data variables.product.product_name %}'s pull request workflow, a popular way to create and review code.
-
-In this quickstart guide, you will:
-
-* Create and use a repository
-* Start and manage a new branch
-* Make changes to a file and push them to {% data variables.product.product_name %} as commits
-* Open and merge a pull request
-
-To complete this tutorial, you need a [{% data variables.product.product_name %} account](http://github.com) and Internet access. You don't need to know how to code, use the command line, or install Git (the version control software that {% data variables.product.product_name %} is built on). If you have a question about any of the expressions used in this guide, head on over to the [glossary](/get-started/quickstart/github-glossary) to find out more about our terminology.
+miniTocMaxHeadingLevel:  a question about any of the expressions used in this guide, head on over to the [glossary](/get-started/quickstart/github-glossary) to find out more about our terminology.
 
 ## Creating a repository
 
